@@ -1,6 +1,5 @@
 :video_game: **Gamer Apasionado **:video_game: 
-:t_rex: **Administrador de Ark** :t_rex:  
- 
+**Administrador de Ark** 
 :earth_africa: Favs:
 
 Ark :sauropod:
@@ -10,7 +9,6 @@ Overwatch :shield:
 Stardew Valley :seedling:
 :computer: Aprendiendo :globe_with_meridians: JS y :snake: PY.
 
-Me gusta  dormir que respirar :D
 
 <!---
 Nearius/Nearius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
