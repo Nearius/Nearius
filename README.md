@@ -1,4 +1,3 @@
-:video_game: **Gamer Apasionado **:video_game: 
 **Administrador de Ark** 
 :earth_africa: Favs:
 
